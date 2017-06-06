@@ -1,0 +1,29 @@
+{
+  "name": "alireza_darbehani_website",
+  "version": "1.0.0",
+  "description": "Peronal website using nodejs ",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alireza1989/new_website.git"
+  },
+  "keywords": [
+    "alireza",
+    "Darbehani",
+    "personal",
+    "website"
+  ],
+  "author": "Alireza Darbehani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alireza1989/new_website/issues"
+  },
+  "homepage": "https://github.com/alireza1989/new_website#readme"
+}
